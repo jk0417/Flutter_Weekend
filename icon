@@ -1,0 +1,4 @@
+1. https://appicon.co 을 이용하여 Icon Download
+2. Down받은 Zip을 해제 하면 android, Assets.xcassets 폴더가 있다.
+3. Finder에서 안드로이드는 android/app/src/main/res 로 이동하여 android용으로 대체.
+4, Finder에서 ios는 ios/Runner/Assets.xcassets 폴더 안에 AppIcon.appiconset 를 대체.
